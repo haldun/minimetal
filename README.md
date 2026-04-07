@@ -1,2 +1,5 @@
 # minimetal
-Metal API experiments
+
+```
+swift app.swift
+```
